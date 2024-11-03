@@ -256,8 +256,8 @@ body {
 
   @media (max-width: 1024px) {
     .birthdayCard {
-      width: 90%;
-      height: 280px;
+      width: 90vw;
+      height: 30vh;
 
     }
     .gatin__img {
